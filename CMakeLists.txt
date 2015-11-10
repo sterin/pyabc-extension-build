@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.3.0)
 
-project(super_prove)
+project(pyabc_extension)
 
 include(cmake/pyabc.cmake)
 
