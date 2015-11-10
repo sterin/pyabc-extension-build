@@ -1,4 +1,7 @@
 syntax: glob
 
-pyabc_*/
-*.tgz
+.idea/
+
+*.orig
+*.rej
+*~
