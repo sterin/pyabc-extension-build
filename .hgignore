@@ -1,0 +1,4 @@
+syntax: glob
+
+pyabc_*/
+*.tgz
