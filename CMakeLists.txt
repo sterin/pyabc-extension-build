@@ -23,4 +23,3 @@ install_target(bip.exe DESTINATION bin RENAME bip)
 install_target(_pyzz DESTINATION lib/pyzz)
 install_target(_pyabc DESTINATION lib/pyabc)
 
-pyabc_install_support_libraries(_pyzz)
