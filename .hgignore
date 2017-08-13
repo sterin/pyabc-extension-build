@@ -1,7 +1,11 @@
 syntax: glob
 
 .idea/
+.vscode/
 
 *.orig
 *.rej
 *~
+
+build/
+
